@@ -5,7 +5,7 @@ export default function Footer() {
 
         <div>
           <div className="text-3xl font-black text-violet-500">
-            AR
+            SK
           </div>
 
           <p className="mt-3 max-w-sm text-sm leading-6 text-slate-500">
@@ -23,7 +23,7 @@ export default function Footer() {
       </div>
 
       <div className="mx-auto mt-8 max-w-7xl border-t border-slate-100 pt-6 text-xs text-slate-400">
-        © 2026 Your Name. All rights reserved.
+        © 2026 Satish Kumar. All rights reserved.
       </div>
     </footer>
   );
