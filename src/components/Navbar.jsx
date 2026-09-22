@@ -21,12 +21,12 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#home" className="flex items-center gap-3">
           <div className="text-4xl font-black tracking-tighter text-violet-500">
-            AR
+            SK
           </div>
 
           <div className="hidden sm:block">
             <p className="text-sm font-bold tracking-[0.25em]">
-              YOUR NAME
+              SATISH KUMAR
             </p>
             <p className="text-[10px] tracking-[0.3em] text-slate-500">
               WEB DEVELOPER

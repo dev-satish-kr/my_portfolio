@@ -20,13 +20,13 @@ export default function Hero() {
           </span>
 
           <h1 className="mt-7 text-5xl font-bold leading-tight tracking-tight text-slate-900 sm:text-6xl lg:text-7xl">
-            Your Name
+            Satish Kumar
           </h1>
 
           <h2 className="mt-3 text-2xl font-medium leading-relaxed text-slate-500 sm:text-3xl">
             Frontend Developer &
             <span className="block text-violet-500">
-              Digital Experience Creator
+              Servicenow Developer
             </span>
           </h2>
 
