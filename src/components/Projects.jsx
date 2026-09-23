@@ -1,20 +1,21 @@
 import { ArrowUpRight } from "lucide-react";
+import project1 from "../assets/projects/project1.jpg";
 
 const projects = [
   {
     title: "Modern Business Website",
     category: "Corporate Website",
-    image: "/projects/project1.jpg",
+    image: project1,
   },
   {
     title: "Fintech Dashboard",
     category: "Web Application",
-    image: "/projects/project2.jpg",
+    image: project1,
   },
   {
     title: "E-Commerce Website",
     category: "E-commerce",
-    image: "/projects/project3.jpg",
+    image: project1,
   },
 ];
 
