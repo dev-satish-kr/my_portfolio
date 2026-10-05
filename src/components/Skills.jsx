@@ -1,13 +1,18 @@
 const skills = [
+  ["Java", 75],
+  ["Spring Boot", 80],
+  ["MySQL", 80],
   ["React.js", 90],
   ["JavaScript", 85],
   ["HTML / CSS", 95],
   ["Tailwind CSS", 90],
-  ["Node.js", 75],
   ["ServiceNow", 70],
 ];
 
 const tools = [
+  "Java",
+  "Spring Boot",
+  "MySQL",
   "React",
   "JavaScript",
   "Tailwind",

@@ -24,16 +24,14 @@ export default function Hero() {
           </h1>
 
           <h2 className="mt-3 text-2xl font-medium leading-relaxed text-slate-500 sm:text-3xl">
-            Frontend Developer &
+            Java Backend Developer &
             <span className="block text-violet-500">
-              Servicenow Developer
+              Frontend Web Developer
             </span>
           </h2>
 
           <p className="mt-6 max-w-xl text-base leading-7 text-slate-500">
-            I build clean, modern and high-performing websites
-            that help businesses grow and create meaningful
-            digital experiences.
+            Java Developer | Built scalable web apps with Spring Boot & Hibernate | Focused on clean code and problem-solving.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">
