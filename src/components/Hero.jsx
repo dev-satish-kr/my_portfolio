@@ -61,14 +61,16 @@ export default function Hero() {
           className="relative flex justify-center"
         >
           {/* decorative circle */}
-          <div className="absolute h-90 w-90 rounded-full border border-violet-200 sm:h-120 sm:w-120" />
+          <div className="absolute inset-0 z-0 h-full w-full rounded-full "/>
 
-          <div className="relative z-10 h-107.5 w-82.5 overflow-hidden rounded-b-[45%] sm:h-130 sm:w-100">
+          <div className="relative h-64 w-64 overflow-hidden rounded-full sm:h-80 sm:w-80 lg:h-96 lg:w-96">
+      
             <img
               src="/profile.png"
               alt="Profile"
-              className="h-full w-full object-cover"
+              className="h-full w-full rounded-full object-cover"
             />
+
           </div>
         </motion.div>
       </div>
